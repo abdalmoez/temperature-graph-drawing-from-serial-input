@@ -1,0 +1,14 @@
+C:\Users\Zi\Desktop\_Src SerialPortBluetooth V0.1\bin\Release\Temperature.exe.config
+C:\Users\Zi\Desktop\_Src SerialPortBluetooth V0.1\bin\Release\Temperature.exe
+C:\Users\Zi\Desktop\_Src SerialPortBluetooth V0.1\bin\Release\Temperature.pdb
+C:\Users\Zi\Desktop\_Src SerialPortBluetooth V0.1\bin\Release\Microsoft.DirectX.DirectInput.dll
+C:\Users\Zi\Desktop\_Src SerialPortBluetooth V0.1\bin\Release\Microsoft.DirectX.DirectInput.xml
+C:\Users\Zi\Desktop\_Src SerialPortBluetooth V0.1\obj\Release\Temperature.csprojResolveAssemblyReference.cache
+C:\Users\Zi\Desktop\_Src SerialPortBluetooth V0.1\obj\Release\SerialPortBluetooth.Form1.resources
+C:\Users\Zi\Desktop\_Src SerialPortBluetooth V0.1\obj\Release\SerialPortBluetooth.Properties.Resources.resources
+C:\Users\Zi\Desktop\_Src SerialPortBluetooth V0.1\obj\Release\Temperature.csproj.GenerateResource.Cache
+C:\Users\Zi\Desktop\_Src SerialPortBluetooth V0.1\obj\Release\Temperature.exe
+C:\Users\Zi\Desktop\_Src SerialPortBluetooth V0.1\obj\Release\Temperature.pdb
+C:\Users\Zi\Desktop\_Src SerialPortBluetooth V0.1\bin\Release\MetroFramework.Design.dll
+C:\Users\Zi\Desktop\_Src SerialPortBluetooth V0.1\bin\Release\MetroFramework.dll
+C:\Users\Zi\Desktop\_Src SerialPortBluetooth V0.1\bin\Release\MetroFramework.Fonts.dll

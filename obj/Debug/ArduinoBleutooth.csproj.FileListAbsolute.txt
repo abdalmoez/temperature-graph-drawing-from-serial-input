@@ -1,0 +1,2 @@
+C:\Users\A\Documents\Visual Studio 2012\Projects\ArduinoBleutooth\bin\Debug\SerialPortBleutooth.exe.config
+C:\Users\A\Documents\Visual Studio 2012\Projects\SerialPortBleutooth\bin\Debug\SerialPortBleutooth.exe.config

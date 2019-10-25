@@ -1,0 +1,22 @@
+C:\Users\A\Documents\Visual Studio 2012\Projects\SerialPortBleutooth\bin\Debug\SerialPortBluetooth.exe.config
+C:\Users\A\Documents\Visual Studio 2012\Projects\SerialPortBleutooth\bin\Debug\SerialPortBluetooth.exe
+C:\Users\A\Documents\Visual Studio 2012\Projects\SerialPortBleutooth\bin\Debug\SerialPortBluetooth.pdb
+C:\Users\A\Documents\Visual Studio 2012\Projects\SerialPortBleutooth\obj\Debug\SerialPortBluetooth.Form1.resources
+C:\Users\A\Documents\Visual Studio 2012\Projects\SerialPortBleutooth\obj\Debug\SerialPortBluetooth.Properties.Resources.resources
+C:\Users\A\Documents\Visual Studio 2012\Projects\SerialPortBleutooth\obj\Debug\SerialPort_Bluetooth.csproj.GenerateResource.Cache
+C:\Users\A\Documents\Visual Studio 2012\Projects\SerialPortBleutooth\obj\Debug\SerialPortBluetooth.exe
+C:\Users\A\Documents\Visual Studio 2012\Projects\SerialPortBleutooth\obj\Debug\SerialPortBluetooth.pdb
+C:\Users\A\Documents\Visual Studio 2012\Projects\SerialPortBleutooth\obj\Debug\SerialPort_Bluetooth.csprojResolveAssemblyReference.cache
+C:\Users\A\Documents\Visual Studio 2012\Projects\SerialPortBleutooth\obj\Debug\SerialPortBluetooth.Form2.resources
+D:\AMDreamSoft\SRC\_Src SerialPortBluetooth v0.1\obj\Debug\SerialPort_Bluetooth.csprojResolveAssemblyReference.cache
+D:\AMDreamSoft\SRC\_Src SerialPortBluetooth v0.1\obj\Debug\SerialPortBluetooth.Form1.resources
+D:\AMDreamSoft\SRC\_Src SerialPortBluetooth v0.1\obj\Debug\SerialPortBluetooth.Form2.resources
+D:\AMDreamSoft\SRC\_Src SerialPortBluetooth v0.1\obj\Debug\SerialPortBluetooth.Properties.Resources.resources
+D:\AMDreamSoft\SRC\_Src SerialPortBluetooth v0.1\obj\Debug\SerialPort_Bluetooth.csproj.GenerateResource.Cache
+D:\AMDreamSoft\SRC\_Src SerialPortBluetooth v0.1\bin\Debug\Microsoft.DirectX.DirectInput.dll
+D:\AMDreamSoft\SRC\_Src SerialPortBluetooth v0.1\bin\Debug\Microsoft.DirectX.DirectInput.xml
+D:\AMDreamSoft\SRC\_Src SerialPortBluetooth V0.1\bin\Debug\SerialPortBluetooth V0.1.exe.config
+D:\AMDreamSoft\SRC\_Src SerialPortBluetooth V0.1\bin\Debug\SerialPortBluetooth V0.1.exe
+D:\AMDreamSoft\SRC\_Src SerialPortBluetooth V0.1\bin\Debug\SerialPortBluetooth V0.1.pdb
+D:\AMDreamSoft\SRC\_Src SerialPortBluetooth V0.1\obj\Debug\SerialPortBluetooth V0.1.exe
+D:\AMDreamSoft\SRC\_Src SerialPortBluetooth V0.1\obj\Debug\SerialPortBluetooth V0.1.pdb
